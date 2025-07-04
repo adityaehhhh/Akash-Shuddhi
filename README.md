@@ -1,6 +1,6 @@
 # MANDATORY :
 
-Go Throught the AkashaShuddhi.pptx in the folder to get detailed insight on project (tool).
+Go Through the **[AkashaShuddhi.pptx](https://docs.google.com/presentation/d/1BXvHkP8YL4_-Ys4wxb-arfKK3lj2zBoD/edit?usp=drive_link&ouid=117212095220529198595&rtpof=true&sd=true)** in the folder to get detailed insight on project (tool).
 
 # 🛰️ Avshesha Anveshanam using OpenCV
 
